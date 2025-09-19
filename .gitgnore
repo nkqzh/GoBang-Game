@@ -1,0 +1,25 @@
+# Python Bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm IDE files
+.idea/
+
+# MacOS Finder files
+.DS_Store
+
+# Python package distribution files
+dist/
+build/
+*.egg-info/
+
+# Model checkpoints
+checkpoints/
